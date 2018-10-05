@@ -1,8 +1,5 @@
 <?php
-/**
- * User: sonny
- * Date: 4/10/2018
- */
+
 
 namespace App\Bom;
 

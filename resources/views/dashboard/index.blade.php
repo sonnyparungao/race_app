@@ -54,7 +54,7 @@
                             </td>
                           </tr>
                           <tr>
-                            <th>Horse Id</th>
+                            <th>Horse Name</th>
                             <th>Distance Covered</th>
                             <th>Horse Position</th>
                             <th>Current time</th>
